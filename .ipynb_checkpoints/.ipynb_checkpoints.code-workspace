@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../jaster-pdf"
+	},
+	{
+		"path": "../../../chatfast"
+	}
+],
+  "settings": {}
+}
